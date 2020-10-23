@@ -10,15 +10,5 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Live version at:
+http://vuechat-20201023114013-hostingbucket-dev.s3-website-us-east-1.amazonaws.com/
