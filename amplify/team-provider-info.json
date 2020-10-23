@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vuechat-dev-112743-authRole",
+      "UnauthRoleArn": "arn:aws:iam::285959556975:role/amplify-vuechat-dev-112743-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::285959556975:role/amplify-vuechat-dev-112743-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-vuechat-dev-112743-deployment",
+      "UnauthRoleName": "amplify-vuechat-dev-112743-unauthRole",
+      "StackName": "amplify-vuechat-dev-112743",
+      "StackId": "arn:aws:cloudformation:us-east-1:285959556975:stack/amplify-vuechat-dev-112743/1c264390-14e8-11eb-9a4a-125f4521752f",
+      "AmplifyAppId": "d2etaa6w5hbp65"
+    }
+  }
+}
